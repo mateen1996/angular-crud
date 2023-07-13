@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstname": "divya",
+      "lastname": "patil",
+      "email": "mateenshaikh363@gmail.com",
+      "mobilenumber": "9423941996",
+      "salary": "12000"
+    },
+    {
+      "id": 4,
+      "firstname": "James1",
+      "lastname": "Smith",
+      "email": "admin@gmail.com",
+      "mobilenumber": "9423941996",
+      "salary": "12000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
